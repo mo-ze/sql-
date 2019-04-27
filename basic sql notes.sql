@@ -1,6 +1,6 @@
 -- first Command to enter 
 mysql -u "root" -p 
--- enter password as 
+-- enter password 
 
 -- to show what database exists
 SHOW DATABASES;
